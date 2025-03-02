@@ -11,8 +11,8 @@ nlp_a5/
 │   └── requirements.txt   # Python dependencies for the app
 ├── dash.Dockerfile        # Dockerfile for the chat application
 ├── docker-compose.yaml    # Docker compose configuration
-└── README.md             # This file
 ├── st125066_a5_04-DPO.ipynb  # Jupyter Notebook for DPO training
+└── README.md             # This file
 
 ```
 
@@ -54,7 +54,7 @@ docker-compose up --build
 ```
 http://localhost:9999
 
-![web app](./figure/a5_web.png)
+<img src="./figure/a5_web.png" width="600" length="400"/>
 
 ```
 
