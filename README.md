@@ -1,8 +1,8 @@
 # NLP Assignment 5: Direct Preference Optimization (DPO)
 
 ## Student Information
-Name - Kaung Nyo Lwin
-ID - st125066
+- Name - Kaung Nyo Lwin
+- ID - st125066
 
 ```
 nlp_a5/
@@ -54,9 +54,9 @@ docker-compose up --build
 ```
 http://localhost:9999
 
+```
 <img src="./figure/a5_web.png" width="600" length="400"/>
 
-```
 
 #### Local Development
 1. Install dependencies:
